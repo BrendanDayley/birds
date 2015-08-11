@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/BrendanDayley/birds/issues"
   },
-  "homepage": "https://github.com/BrendanDayley/birds#readme"
+  "homepage": "https://github.com/BrendanDayley/birds#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "mongojs": "^1.2.1"
+  }
 }
